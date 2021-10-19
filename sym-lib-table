@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MCU_ST_STM8)(type Legacy)(uri /home/gabbla/Downloads/MCU_ST_STM8.lib)(options "")(descr ""))
+)
