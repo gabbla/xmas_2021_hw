@@ -34,6 +34,10 @@ The resulting PCB:
 
 ![bot](res/xmas_2021_bot.png)
 
+A small animation:
+
+<img src="https://github.com/gabbla/xmas_2021_hw/blob/master/res/xmas_tree.gif" width="100%">
+
 ## Firmware
 
 The firmware can be found [here](https://github.com/SebastianoC94/XMAS_Tree_2021). Thanks [@SebastianoC94]!
