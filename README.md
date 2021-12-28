@@ -8,6 +8,8 @@ A jig programmer adapter is provided in [prog_adapter](prog_adapter). Since a
 lot of PCBs where made, the adapter gave an huge help during the programming
 phase: no extra pin header or soldering required.
 
+<img src="https://github.com/gabbla/xmas_2021_hw/blob/master/res/xmas_tree.gif" width="100%">
+
 ## Hardware
 
 The BoM has been kept as minimal as possible to reduce costs.
@@ -33,10 +35,6 @@ The resulting PCB:
 ![top](res/xmas_2021_top.png)
 
 ![bot](res/xmas_2021_bot.png)
-
-A small animation:
-
-<img src="https://github.com/gabbla/xmas_2021_hw/blob/master/res/xmas_tree.gif" width="100%">
 
 ## Firmware
 
