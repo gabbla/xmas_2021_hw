@@ -5,7 +5,7 @@ The badge is equipped with an [STM8L101F2P3] MCU, a coin cell, a push button and
 7 LEDs. There are various test point so you can play with it, if you want.
 
 A jig programmer adapter is provided in [prog_adapter](prog_adapter). Since a
-lot of PCBs where made, the adapter gave an huge help during the programming
+lot of PCBs were made, the adapter gave an huge help during the programming
 phase: no extra pin header or soldering required.
 
 <img src="https://github.com/gabbla/xmas_2021_hw/blob/master/res/xmas_tree.gif" width="100%">
