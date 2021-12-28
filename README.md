@@ -36,13 +36,13 @@ The resulting PCB:
 
 ## Firmware
 
-The firmware can be found [here](https://github.com/SebastianoC94/XMAS_Tree_2021). Thanks @SebastianoC94!
+The firmware can be found [here](https://github.com/SebastianoC94/XMAS_Tree_2021). Thanks [@SebastianoC94]!
 
 The firmware can be flashed with any SWIM-capable probe (JLink, STLinkV2/V3).
 
 ## Credits
 
-- @SebastianoC94
+- [@SebastianoC94]
 - KiCad
 - [svg2shenzhen]
 - PCB cutout traced from [this](https://www.flaticon.com/free-icon/christmas-tree_6118946) flaticon image. Artist: [Freepik](https://www.freepik.com)
@@ -50,3 +50,4 @@ The firmware can be flashed with any SWIM-capable probe (JLink, STLinkV2/V3).
 
 [STM8L101F2P3]: https://www.st.com/en/microcontrollers-microprocessors/stm8l101f2.html
 [svg2shenzhen]: https://github.com/badgeek/svg2shenzhen
+[@SebastianoC94]: github.com/SebastianoC94
